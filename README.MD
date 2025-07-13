@@ -14,10 +14,10 @@ A Streamlit-based web application that uses machine learning models to predict t
 ## 📂 Repository Structure
 
 ├── app.py # Main Streamlit app
-├── diabetes_model.sav # Trained ML model for diabetes prediction
-├── heart_model.sav # Trained ML model for heart disease prediction
-├── breast_cancer.sav # Trained ML model for breast cancer prediction
-├── parkinsons_model.sav # Trained ML model for Parkinson's prediction
+├── diabetes_model.sav 
+├── heart_model.sav 
+├── breast_cancer.sav 
+├── parkinsons_model.sav 
 ├── requirements.txt
 ├── Procfile
 ├── runtime.txt 
