@@ -64,7 +64,7 @@ Backend/ML: Python, Scikit-learn, Pickle
 
 UI Components: streamlit-option-menu
 
-Deployment: Streamlit Cloud / Heroku (Procfile included)
+Deployment: Streamlit 
 
 Models Used
 Each disease module uses a pre-trained .sav model built using Scikit-learn algorithms. These models were trained on well-known public datasets.
