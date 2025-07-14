@@ -9,7 +9,7 @@ A Streamlit-based web application that uses machine learning models to predict t
 
 ## 🚀 Live Demo
 
-🔗 [Live App on Streamlit Cloud](https://your-live-app-link-here.com)
+🔗 https://www.youtube.com/watch?v=nKSmadhcoqk
 
 ## 📂 Repository Structure
 
